@@ -15,3 +15,4 @@ Cloud backend for IoT devices to store GPS locations, history, real-time updates
 - [2025-10-09] Implemented new module architecture.
 - [2025-11-04] Updated UI components.
 - [2025-11-20] Refactored controllers.
+- [2025-12-13] Integrated API endpoints.
