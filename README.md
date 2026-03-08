@@ -63,3 +63,4 @@ Cloud backend for IoT devices to store GPS locations, history, real-time updates
 - [2026-02-04] Minor tweak to configuration.
 - [2026-03-06] Removed unused variables.
 - [2026-03-08] Minor tweak to configuration.
+- [2026-03-08] Minor performance improvement.
