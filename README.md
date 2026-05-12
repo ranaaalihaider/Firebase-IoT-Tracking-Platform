@@ -27,3 +27,4 @@ Cloud backend for IoT devices to store GPS locations, history, real-time updates
 - [2026-04-07] Resolved merge conflicts and cleaned up code.
 - [2026-04-13] Refactored controllers.
 - [2026-05-01] Refactored controllers.
+- [2026-05-12] Integrated API endpoints.
